@@ -1,0 +1,296 @@
+[
+    {
+        "Name": "Newspaper",
+        "Unit": "Per KG",
+        "Price": "10.00",
+        "Image URL": "https://www.reuze.in/products/1736082528-Reuze-old-newspaper-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Books",
+        "Unit": "Per KG",
+        "Price": "7.00",
+        "Image URL": "https://www.reuze.in/products/1735843586-Reuze-old-books.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Plastic (Soft)",
+        "Unit": "Per KG",
+        "Price": "7.00",
+        "Image URL": "https://www.reuze.in/products/1736083643-Reuze-plastic-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Plastic (Hard)",
+        "Unit": "Per KG",
+        "Price": "2.00",
+        "Image URL": "https://www.reuze.in/products/1732820000-Reuze-hard-plastic-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Cardboard",
+        "Unit": "Per KG",
+        "Price": "4.00",
+        "Image URL": "https://www.reuze.in/products/1735843413-Reuze-cardboard-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Iron",
+        "Unit": "Per KG",
+        "Price": "22.00",
+        "Image URL": "https://www.reuze.in/products/1736083656-Reuze-iron-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Tin",
+        "Unit": "Per KG",
+        "Price": "16.00",
+        "Image URL": "https://www.reuze.in/products/1736083624-Reuze-tin-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Copper",
+        "Unit": "Per KG",
+        "Price": "500.00",
+        "Image URL": "https://www.reuze.in/products/1735570017-Reuze-copper-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Brass",
+        "Unit": "Per KG",
+        "Price": "350.00",
+        "Image URL": "https://www.reuze.in/products/1736082619-Reuze-brass-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Aluminium",
+        "Unit": "Per KG",
+        "Price": "110.00",
+        "Image URL": "https://www.reuze.in/products/1735570029-Reuze-aluminium-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Stainless Steel",
+        "Unit": "Per KG",
+        "Price": "45.00",
+        "Image URL": "https://www.reuze.in/products/1735569056-Reuze-stainless-steel-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Split AC unit",
+        "Unit": "Per unit",
+        "Price": "2500  - 4500",
+        "Image URL": "https://www.reuze.in/products/1735843398-Reuze-split-AC-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Window AC",
+        "Unit": "Per Piece",
+        "Price": "2500  - 4500",
+        "Image URL": "https://www.reuze.in/products/1735843302-Reuze-window-AC.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Portable AC",
+        "Unit": "Per Piece",
+        "Price": "2500  - 4500",
+        "Image URL": "https://www.reuze.in/products/1735570051-Reuze-portable-ac.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Battery",
+        "Unit": "Per KG",
+        "Price": "80.00  - 130.00",
+        "Image URL": "https://www.reuze.in/products/1736082602-Reuze-battery-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Electrical Wiring",
+        "Unit": "Per KG",
+        "Price": "100.00  - 300.00",
+        "Image URL": "https://www.reuze.in/products/1735569941-Reuze-electrical-wiring-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Ewaste (Mixed)",
+        "Unit": "Per KG",
+        "Price": "20.00",
+        "Image URL": "https://www.reuze.in/products/1735569999-Reuze-ewaste.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "CPU (complete)",
+        "Unit": "Per KG",
+        "Price": "35.00",
+        "Image URL": "https://www.reuze.in/products/1735569736-Reuze-CPU-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "All in One (PC)",
+        "Unit": "Per Piece",
+        "Price": "500.00  - 1500.00",
+        "Image URL": "https://www.reuze.in/products/1735569072-Reuze-all-in-one-PC.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Laptop",
+        "Unit": "Per Piece",
+        "Price": "200.00  - 8000.00",
+        "Image URL": "https://www.reuze.in/products/1735569635-Reuze-old-laptop.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Mobile / Tab",
+        "Unit": "Per Piece",
+        "Price": "15.00  - 50.00",
+        "Image URL": "https://www.reuze.in/products/1735569982-Reuze-mobile-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Television (CRT)",
+        "Unit": "Per Piece",
+        "Price": "100.00  - 200.00",
+        "Image URL": "https://www.reuze.in/products/1736082634-Reuze-old-TV-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "TV (LCD/LED)",
+        "Unit": "Per Piece",
+        "Price": "100.00  - 2000.00",
+        "Image URL": "https://www.reuze.in/products/1732855146-Reuze-old-TV.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Monitor (CRT)",
+        "Unit": "Per Piece",
+        "Price": "200.00",
+        "Image URL": "https://www.reuze.in/products/1735843317-Reuze-CRT-monitor.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Monitor (LCD)",
+        "Unit": "Per KG",
+        "Price": "20.00",
+        "Image URL": "https://www.reuze.in/products/1735843913-Reuze-LCD-monitor-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "CD",
+        "Unit": "Per KG",
+        "Price": "10.00",
+        "Image URL": "https://www.reuze.in/products/1735843924-Reuze-CD-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Fridge",
+        "Unit": "Per Piece",
+        "Price": "500.00  - 9000.00",
+        "Image URL": "https://www.reuze.in/products/1735569537-Reuze-fridge-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Front Load (WM)",
+        "Unit": "Per Piece",
+        "Price": "800.00",
+        "Image URL": "https://www.reuze.in/products/1736082588-Reuze-front-load-washing-machine.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Top Load (WM)",
+        "Unit": "Per Piece",
+        "Price": "700.00",
+        "Image URL": "https://www.reuze.in/products/1735569520-Reuze-top-load-washing-machine.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Dishwasher",
+        "Unit": "Per Piece",
+        "Price": "600.00",
+        "Image URL": "https://www.reuze.in/products/1735843935-Reuze-dishwasher-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Cooking Range",
+        "Unit": "Per Piece",
+        "Price": "700.00",
+        "Image URL": "https://www.reuze.in/products/1735569119-Reuze-cooking-range.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Water Dispenser",
+        "Unit": "Per Piece",
+        "Price": "600.00",
+        "Image URL": "https://www.reuze.in/products/1735569497-Reuze-water-dispenser.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Microwave",
+        "Unit": "Per Piece",
+        "Price": "150.00  - 450.00",
+        "Image URL": "https://www.reuze.in/products/1735843378-Reuze-microwave-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Air Cooler",
+        "Unit": "Per Piece",
+        "Price": "100.00  - 500.00",
+        "Image URL": "https://www.reuze.in/products/1735569136-Reuze-air-cooler.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Geyser",
+        "Unit": "Per Piece",
+        "Price": "50.00  - 500.00",
+        "Image URL": "https://www.reuze.in/products/1736082553-Reuze-old-geyser.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Tyre",
+        "Unit": "Per KG",
+        "Price": "3.00",
+        "Image URL": "https://www.reuze.in/products/1736083666-Reuze-old-tyres.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Two Wheeler",
+        "Unit": "Per Piece",
+        "Price": "800.00  - 3500.00",
+        "Image URL": "https://www.reuze.in/products/1735569153-Reuze-two-wheeler-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Mattress (Donation)",
+        "Unit": "Per Piece",
+        "Price": "0.00",
+        "Image URL": "https://www.reuze.in/products/1735569177-Reuze-old-mattress.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Furniture",
+        "Unit": "Per Piece",
+        "Price": "0.00",
+        "Image URL": "https://www.reuze.in/products/1735569217-Reuze-furniture-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Sofa Set",
+        "Unit": "Per set",
+        "Price": "0.00  - 5000.00",
+        "Image URL": "https://www.reuze.in/products/1732860097-Reuze-used-sofa-set-sale.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Liquor / Glass Bottle",
+        "Unit": "Per KG",
+        "Price": "0.00",
+        "Image URL": "https://www.reuze.in/products/1732855784-Reuze-liquor-bottle-scrap.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    },
+    {
+        "Name": "Cloth (Donation)",
+        "Unit": "Per Piece",
+        "Price": "0.00",
+        "Image URL": "https://www.reuze.in/products/1735569189-Reuze-donation-cloth.webp",
+        "Time Updated": "2025-03-25 12:20:21"
+    }
+]
